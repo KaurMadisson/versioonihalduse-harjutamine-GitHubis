@@ -1,1 +1,3 @@
-
+GitHub, Inc. on Interneti-hostimise pakkuja tarkvara arendamiseks ja versioonijuhtimiseks Git abil. 
+Seda kasuavad programmeerijad.
+Sedasaab kasutada igalpool läbi arvuti.

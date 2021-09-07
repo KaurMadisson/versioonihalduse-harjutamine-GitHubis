@@ -1,0 +1,1 @@
+# versioonihalduse-harjutamine-GitHubis
